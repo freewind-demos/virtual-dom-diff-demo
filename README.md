@@ -7,6 +7,7 @@ Virtual-Dom Demo
 npm install
 npm install -g browserify
 browserify index.js -o bundle.js
+open index.html
 ```
 
 Open `index.html` to see the result.
