@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "virtual-dom": "^2.1.1"
+    "virtual-dom": "2.1.1"
   }
 }
